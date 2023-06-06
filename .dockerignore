@@ -1,0 +1,11 @@
+# Ignore everything.
+**
+
+# Except the following.
+!src
+!LICENSE.txt
+!README.md
+
+# Filter unwanted files from included folders.
+**/__pycache__
+**.py[cod]
